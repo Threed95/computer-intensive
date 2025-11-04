@@ -110,6 +110,7 @@ h6 {
     top: 0;
     left: 0;
     z-index: 1;
+    width: 100%;
 }
 
 .main-display__title {
